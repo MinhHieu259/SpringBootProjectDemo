@@ -1,2 +1,5 @@
-package com.minhhieu.springBootSecuriryJWT.domain;public class User {
+package com.minhhieu.springBootSecuriryJWT.domain;
+
+public class User {
+
 }
